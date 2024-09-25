@@ -94,5 +94,5 @@ VIII. (VETADO). (Incluído pela Lei nº 14.345, de 2022)
 
 § 5º Se informado sobre o desaparecimento da informação solicitada, o interessado pode pedir à autoridade competente a imediata abertura de investigação para apurar o desaparecimento da documentação.
 
-<font color="gray">§ 6º</font> Em caso de desaparecimento da informação (conforme § 5º), o responsável pela guarda da informação deve, em até 10 dias, justificar o ocorrido e indicar testemunhas para comprovar sua alegação.
+<font color="blue">§ 6º</font> Em caso de desaparecimento da informação (conforme § 5º), o responsável pela guarda da informação deve, em até 10 dias, justificar o ocorrido e indicar testemunhas para comprovar sua alegação.
 </div>
