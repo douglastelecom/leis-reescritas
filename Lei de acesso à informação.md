@@ -6,8 +6,7 @@
 >
 >Lei Nº 12.527, de 18 de Novembro de 2011.
 
-#### CAPÍTULO 1
-###### DISPOSIÇÕES GERAIS
+#### CAPÍTULO 1 - DISPOSIÇÕES GERAIS
 
 **Art. 1º** Esta lei estabelece as regras que o governo federal, os estados, o Distrito Federal e os municípios devem seguir para garantir o acesso às informações previstas na Constituição Federal.
 
@@ -65,8 +64,7 @@
 
 ---
 
-#### CAPÍTULO 2
-###### DO ACESSO A INFORMAÇÕES E DA SUA DIVULGAÇÃO
+#### CAPÍTULO 2 - DO ACESSO A INFORMAÇÕES E DA SUA DIVULGAÇÃO
 **Art. 6º** Os órgãos e entidades do poder público devem, de acordo com as normas e procedimentos aplicáveis:
 
 **I.** garantir a gestão transparente da informação, permitindo amplo acesso e divulgação;
@@ -147,7 +145,9 @@ c. Receber documentos e pedidos de acesso a informações;
 
 **II.** Realização de audiências ou consultas públicas, incentivo à participação popular ou outras formas de divulgação.
 
-#### CAPÍTULO 3
+---
+
+#### CAPÍTULO 3 - DO PROCEDIMENTO DE ACESSO À INFORMAÇÃO
 
 
 
