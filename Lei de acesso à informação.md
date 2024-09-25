@@ -232,6 +232,23 @@ Parágrafo único. O recurso deve ser encaminhado à autoridade hierarquicamente
 
 ---
 
+**Art. 18.** Os procedimentos para revisão de decisões negativas tomadas no recurso previsto no art. 15 e os procedimentos para revisão da classificação de documentos sigilosos serão regulamentados separadamente pelos Poderes Legislativo e Judiciário, e pelo Ministério Público, em seus respectivos âmbitos. Em qualquer caso, é garantido ao solicitante o direito de ser informado sobre o andamento de seu pedido.
+
+---
+
+**Art. 19.** (VETADO).
+
+**§ 1º** (VETADO).
+
+**§ 2º** Os órgãos do Poder Judiciário e do Ministério Público devem informar ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, sobre as decisões que, em grau de recurso, negarem acesso a informações de interesse público.
+
+---
+
+**Art. 20.** Aplica-se, de forma complementar e no que for pertinente, a Lei nº 9.784, de 29 de janeiro de 1999, aos procedimentos tratados neste capítulo.
+
+#### CAPÍTULO 4 - DAS RESTRIÇÕES DE ACESSO À INFORMAÇÃO
+
+
 
 
 
