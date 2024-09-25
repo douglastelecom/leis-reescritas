@@ -149,6 +149,103 @@ c. Receber documentos e pedidos de acesso a informações;
 
 #### CAPÍTULO 3 - DO PROCEDIMENTO DE ACESSO À INFORMAÇÃO
 
+###### SEÇÃO I - DO PEDIDO DE ACESSO
+
+**Art. 10.** Qualquer pessoa interessada pode solicitar acesso a informações aos órgãos e entidades mencionados no art. 1º desta lei, por qualquer meio legítimo. O pedido deve conter a identificação do solicitante e a especificação da informação desejada.
+
+**§ 1º** Para acessar informações de interesse público, a identificação do solicitante não pode ter exigências que impossibilitem a solicitação.
+
+**§ 2º** Os órgãos e entidades públicas devem oferecer uma opção para envio de pedidos de acesso por meio de seus sites oficiais na internet.
+
+**§ 3º** Não podem ser feitas exigências sobre os motivos do pedido de informações de interesse público.
+
+---
+
+**Art. 11.** O órgão ou entidade pública deve autorizar ou fornecer acesso imediato à informação disponível.
+
+**§ 1º** Se não for possível conceder acesso imediato, o órgão ou entidade que recebeu o pedido deve, dentro de no máximo 20 dias:
+**i.** Informar a data, local e maneira de realizar a consulta, reprodução ou obtenção da certidão;
+**ii.** Indicar as razões de fato ou de direito para a recusa, total ou parcial, do acesso solicitado; ou
+**iii.** Informar que não possui a informação e, se souber, indicar o órgão ou entidade que a possui, ou enviar o pedido para o órgão ou entidade correta, notificando o solicitante sobre o encaminhamento.
+
+**§ 2º** O prazo mencionado no § 1º pode ser prorrogado por mais 10 dias, com justificativa expressa e com a notificação ao solicitante.
+
+**§ 3º** Sem comprometer a segurança e proteção das informações e respeitando a legislação aplicável, o órgão ou entidade pode oferecer meios para que o próprio solicitante pesquise a informação que necessita.
+
+**§ 4º** Se o acesso não for autorizado por ser uma informação total ou parcialmente sigilosa, o solicitante deve ser informado sobre a possibilidade de recurso, os prazos e condições para sua interposição, e a autoridade competente para apreciá-lo.
+
+**§ 5º** A informação armazenada em formato digital será fornecida nesse formato, se o solicitante assim concordar.
+
+**§ 6º** Se a informação solicitada estiver disponível ao público em formato impresso, eletrônico ou outro meio de acesso universal, o solicitante será informado por escrito sobre o local e a forma de consulta, obtenção ou reprodução da informação. Este procedimento isenta o órgão ou entidade pública da obrigação de fornecimento direto, exceto se o solicitante declarar que não tem meios para realizar essas ações por si mesmo.
+
+---
+
+**Art. 12.** O serviço de busca e fornecimento de informação é gratuito.
+
+**§ 1º** O órgão ou entidade pode cobrar apenas o valor necessário para cobrir os custos dos serviços e materiais usados, quando a busca e fornecimento da informação exigirem a reprodução de documentos.
+
+**§ 2º** Estará isenta de ressarcir os custos mencionados no § 1º a pessoa cuja situação econômica não permita fazê-lo sem prejudicar seu próprio sustento ou o de sua família, conforme declarado nos termos da Lei nº 7.115, de 29 de agosto de 1983.
+
+---
+
+**Art. 13.** Quando o acesso à informação estiver em um documento cuja manipulação possa prejudicar sua integridade, deve ser oferecida a consulta de uma cópia, certificada como fiel ao original.
+
+**Parágrafo único.** Se não for possível obter cópias, o interessado pode solicitar que a reprodução seja feita por outro meio, às suas custas e sob supervisão de um servidor público, desde que não coloque em risco a preservação do documento original.
+
+---
+
+**Art. 14.** O solicitante tem o direito de obter a íntegra da decisão que negou o acesso à informação, por meio de certidão ou cópia.
+
+---
+
+###### SEÇÃO II - DOS RECURSOS
+
+**Art. 15.** Se o acesso à informação for recusado ou as razões da recusa forem insatisfatórias, o interessado pode recorrer da decisão no prazo de 10 dias a partir do conhecimento da negativa.
+
+Parágrafo único. O recurso deve ser encaminhado à autoridade hierarquicamente superior àquela que tomou a decisão recusada, e essa autoridade deve se manifestar no prazo de 5 dias.
+
+---
+
+**Art. 16.** Se o acesso à informação for negado por órgãos ou entidades do Poder Executivo Federal, o solicitante pode recorrer à Controladoria-Geral da União, que deverá decidir no prazo de 5 dias nos seguintes casos:
+
+**I.** Quando o acesso a informações não classificadas como sigilosas for negado;
+
+**II.** Quando a decisão de negar acesso a informações total ou parcialmente classificadas como sigilosas não indicar a autoridade classificadora ou a autoridade superior a quem o pedido de acesso ou de desclassificação pode ser encaminhado;
+
+**III.** Quando os procedimentos de classificação de informações sigilosas estabelecidos por esta lei não tiverem sido seguidos;
+
+**IV.** Quando prazos ou outros procedimentos previstos nesta lei não forem cumpridos.
+
+**§ 1º** O recurso mencionado neste artigo só pode ser direcionado à Controladoria-Geral da União depois de ser submetido a pelo menos uma autoridade hierarquicamente superior àquela que tomou a decisão recusada, e que deve decidir no prazo de 5 dias.
+
+**§ 2º** Se as razões do recurso forem consideradas válidas, a Controladoria-Geral da União instruirá o órgão ou entidade a tomar as medidas necessárias para cumprir o disposto nesta lei.
+
+**§ 3º** Se a Controladoria-Geral da União negar o acesso à informação, pode-se recorrer à Comissão Mista de Reavaliação de Informações, conforme o art. 35.
+
+---
+
+**Art. 17.** Se um pedido de desclassificação de informação feito a um órgão da administração pública federal for negado, o solicitante pode recorrer ao Ministro de Estado da área relevante, sem prejuízo das competências da Comissão Mista de Reavaliação de Informações, conforme o art. 35, e do disposto no art. 16.
+
+**§ 1º** O recurso mencionado neste artigo só pode ser direcionado às autoridades indicadas após ser apreciado por pelo menos uma autoridade hierarquicamente superior àquela que tomou a decisão recusada e, no caso das Forças Armadas, ao respectivo Comando.
+
+**§ 2º** Se o recurso mencionado no caput, referente à desclassificação de informação secreta ou ultrassecreta, for negado, pode-se recorrer à Comissão Mista de Reavaliação de Informações, conforme o art. 35.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
