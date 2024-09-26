@@ -374,17 +374,69 @@ Parágrafo único. O recurso deve ser encaminhado à autoridade hierarquicamente
 
 **Art. 30.** Todo ano, a autoridade principal de cada órgão ou entidade deve publicar na internet, em um site específico para dados e informações administrativas, as seguintes informações:
 
-**I** - Lista das informações que foram desclassificadas nos últimos 12 meses;
+**I.** Lista das informações que foram desclassificadas nos últimos 12 meses;
 
-**II** - Lista de documentos classificados em cada nível de sigilo, com identificação para referência futura;
+**II.** Lista de documentos classificados em cada nível de sigilo, com identificação para referência futura;
 
-**III** - Relatório com estatísticas sobre a quantidade de pedidos de informação recebidos, atendidos e negados, além de informações gerais sobre quem solicitou.
+**III.** Relatório com estatísticas sobre a quantidade de pedidos de informação recebidos, atendidos e negados, além de informações gerais sobre quem solicitou.
 
 **§ 1º** Os órgãos e entidades devem manter uma cópia dessa publicação disponível para consulta pública em suas sedes.
 
 **§ 2º** Os órgãos e entidades também manterão uma lista resumida com as informações classificadas, incluindo a data, o nível de sigilo e os motivos da classificação.
 
 ---
+
+###### SEÇÃO V - DAS INFORMAÇÕES PESSOAIS
+
+**Art. 31.** O tratamento de informações pessoais deve ser transparente e respeitar a privacidade, vida privada, honra e imagem das pessoas, assim como as liberdades e garantias individuais.
+
+**§ 1º** As informações pessoais sobre privacidade, vida privada, honra e imagem:
+**i.** Terão acesso restrito por até 100 anos a partir de sua criação, apenas para agentes públicos autorizados e para a pessoa a quem se referem, independentemente de serem classificadas como sigilosas;
+**ii.** Poderão ser divulgadas ou acessadas por terceiros apenas se houver uma previsão legal ou consentimento explícito da pessoa a quem se referem.
+
+**§ 2º** Quem obtiver acesso a essas informações será responsável por seu uso inadequado.
+
+**§ 3º** O consentimento mencionado no inciso II do § 1º não será necessário quando as informações forem essenciais:
+**i.** Para a prevenção e diagnóstico médico, se a pessoa estiver incapaz física ou legalmente, e apenas para tratamento médico;
+**ii.** Para estatísticas e pesquisas científicas de interesse público ou geral previstos em lei, desde que a pessoa não seja identificada;
+**iii.** Para cumprimento de ordem judicial;
+**iv.** Para a defesa de direitos humanos; ou
+**v.** Para proteger o interesse público e geral predominante.
+
+**§ 4º** A restrição de acesso a informações sobre a vida privada, honra e imagem de uma pessoa não pode ser usada para impedir investigações de irregularidades ou ações para recuperação de fatos históricos importantes em que a pessoa estiver envolvida.
+
+**§ 5º** Regulamentos irão definir os procedimentos para o tratamento de informações pessoais.
+
+---
+
+#### CAPÍTULO V - DAS RESPONSABILIDADES
+
+**Art. 32.** Algumas ações são consideradas erradas e podem fazer com que um agente público ou militar seja responsabilizado. Essas ações incluem:
+
+**I.** Recusar-se a fornecer informações solicitadas conforme esta Lei, demorar de propósito ou fornecer informações incorretas, incompletas ou imprecisas intencionalmente;
+
+**II.** Usar indevidamente, roubar, destruir, danificar, alterar ou esconder informações que estejam sob sua responsabilidade ou que tenha acesso por causa do seu trabalho público;
+
+**III.** Agir de má-fé ou com intenção de prejudicar quando analisar pedidos de acesso a informações;
+
+**IV.** Divulgar ou permitir a divulgação, acessar ou permitir acesso indevido a informações sigilosas ou pessoais;
+
+**V.** Colocar sigilo em informações para obter ganho pessoal ou para esconder atos ilegais cometidos por si mesmo ou por outras pessoas;
+
+**VI.** Ocultar informações sigilosas da revisão por uma autoridade superior para beneficiar a si mesmo ou a outros, ou prejudicar terceiros;
+
+**VII.** Destruir ou roubar documentos relacionados a possíveis violações de direitos humanos cometidas por agentes do Estado.
+
+**§ 1º** Seguindo os princípios de direito à defesa e ao processo legal, essas ações serão consideradas:
+
+**i.** Para os regulamentos disciplinares das Forças Armadas, infrações médias ou graves, conforme critérios definidos nesses regulamentos, desde que não sejam crimes ou contravenções penais;
+
+**ii.** Para a Lei nº 8.112, de 11 de dezembro de 1990, e suas alterações, infrações administrativas, que devem ser punidas, no mínimo, com suspensão, conforme os critérios dessa lei.
+
+**§ 2º** Por essas condutas, o militar ou agente público também pode responder por improbidade administrativa, conforme as Leis nº 1.079, de 10 de abril de 1950, e nº 8.429, de 2 de junho de 1992.
+
+---
+
 
 
 
