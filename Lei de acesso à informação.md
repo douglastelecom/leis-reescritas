@@ -96,29 +96,29 @@
 
 **VIII.** (VETADO). (Incluído pela Lei nº 14.345, de 2022)
 
-§ 1º O direito de acesso à informação não inclui informações sobre projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja essencial para a segurança da sociedade e do Estado.
+**§ 1º** O direito de acesso à informação não inclui informações sobre projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja essencial para a segurança da sociedade e do Estado.
 
-§ 2º Se o acesso integral à informação não for autorizado por ser parcialmente sigilosa, é garantido o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com a parte sigilosa ocultada.
+**§ 2º** Se o acesso integral à informação não for autorizado por ser parcialmente sigilosa, é garantido o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com a parte sigilosa ocultada.
 
-§ 3º O direito de acesso a documentos ou informações neles contidas usados como base para decisões e atos administrativos será garantido após a publicação do ato decisório.
+**§ 3º** O direito de acesso a documentos ou informações neles contidas usados como base para decisões e atos administrativos será garantido após a publicação do ato decisório.
 
-§ 4º A negativa de acesso às informações solicitadas aos órgãos e entidades mencionadas no art. 1º, quando não justificada, sujeitará o responsável a medidas disciplinares, conforme o art. 32 desta lei.
+**§ 4º** A negativa de acesso às informações solicitadas aos órgãos e entidades mencionadas no art. 1º, quando não justificada, sujeitará o responsável a medidas disciplinares, conforme o art. 32 desta lei.
 
-§ 5º Se informado sobre o desaparecimento da informação solicitada, o interessado pode pedir à autoridade competente a imediata abertura de investigação para apurar o desaparecimento da documentação.
+**§ 5º** Se informado sobre o desaparecimento da informação solicitada, o interessado pode pedir à autoridade competente a imediata abertura de investigação para apurar o desaparecimento da documentação.
 
-§ 6º Em caso de desaparecimento da informação (conforme § 5º), o responsável pela guarda da informação deve, em até 10 dias, justificar o ocorrido e indicar testemunhas para comprovar sua alegação.
+**§ 6º** Em caso de desaparecimento da informação (conforme § 5º), o responsável pela guarda da informação deve, em até 10 dias, justificar o ocorrido e indicar testemunhas para comprovar sua alegação.
 
 ---
 
 **Art. 8º** É obrigação dos órgãos e entidades públicas divulgar, sem a necessidade de solicitação, informações de interesse coletivo ou geral em locais de fácil acesso, de acordo com suas competências.
 
 **§ 1º** Na divulgação dessas informações, deve-se incluir, no mínimo:
-i. Detalhes sobre competências, estrutura organizacional, endereços, telefones das unidades e horários de atendimento ao público;
-ii. Registros de quaisquer repasses ou transferências de recursos financeiros;
-iii. Registros de despesas;
-iv. Informações sobre procedimentos de licitação, incluindo editais, resultados e todos os contratos firmados;
-v. Dados gerais para acompanhar programas, ações, projetos e obras dos órgãos e entidades; e
-vi. Respostas às perguntas mais frequentes da sociedade.
+**i.** Detalhes sobre competências, estrutura organizacional, endereços, telefones das unidades e horários de atendimento ao público;
+**ii.** Registros de quaisquer repasses ou transferências de recursos financeiros;
+**iii.** Registros de despesas;
+**iv.** Informações sobre procedimentos de licitação, incluindo editais, resultados e todos os contratos firmados;
+**v.** Dados gerais para acompanhar programas, ações, projetos e obras dos órgãos e entidades; e
+**vi.** Respostas às perguntas mais frequentes da sociedade.
 
 **§ 2º** Para cumprir o que está previsto no caput, os órgãos e entidades públicas devem usar todos os meios e instrumentos legítimos disponíveis, sendo obrigatória a divulgação em sites oficiais na internet.
 
@@ -139,9 +139,9 @@ viii. Adotar medidas necessárias para garantir a acessibilidade do conteúdo pa
 **Art. 9º** O acesso a informações públicas será garantido através de:
 
 **I.** Criação de serviços de informações ao cidadão, nos órgãos e entidades do poder público, em locais adequados para:
-a. Atender e orientar o público sobre como acessar informações;
-b. Informar sobre o andamento de documentos em suas unidades;
-c. Receber documentos e pedidos de acesso a informações;
+**a.** Atender e orientar o público sobre como acessar informações;
+**b.** Informar sobre o andamento de documentos em suas unidades;
+**c.** Receber documentos e pedidos de acesso a informações;
 
 **II.** Realização de audiências ou consultas públicas, incentivo à participação popular ou outras formas de divulgação.
 
@@ -248,20 +248,143 @@ Parágrafo único. O recurso deve ser encaminhado à autoridade hierarquicamente
 
 #### CAPÍTULO 4 - DAS RESTRIÇÕES DE ACESSO À INFORMAÇÃO
 
+###### SEÇÃO I - DISPOSIÇÕES GERAIS
 
+**Art. 21.** Não poderão ser negadas informações que sejam necessárias para proteção dos direitos fundamentais, seja na justiça ou em processos administrativos.
 
+**Parágrafo único.** Informações ou documentos sobre ações que violam direitos humanos, feitas por agentes públicos ou a pedido de autoridades públicas, não podem ter o acesso restringido.
 
+---
 
+**Art. 22.** Esta lei não elimina outras situações legais de sigilo, segredo de justiça ou segredo industrial que possam surgir quando o governo ou empresas ligadas ao governo exploram atividades econômicas.
 
+---
 
+###### SEÇÃO II - DA CLASSIFICAÇÃO DA INFORMAÇÃO QUANTO AO GRAU E PRAZOS DE SIGILO
 
+**Art. 23.** Algumas informações são essenciais para a segurança da sociedade ou do governo e podem ser classificadas como sigilosas. Isso acontece se a divulgação dessas informações puder:
 
+**I.** Colocar em risco a defesa do país, sua soberania ou a integridade do seu território;
 
+**II.** Prejudicar ou colocar em risco negociações ou relações internacionais do país, ou informações confidenciais dadas por outros países e organizações internacionais;
 
+**III.** Colocar em risco a vida, a segurança ou a saúde da população;
 
+**IV.** Apresentar grande risco à estabilidade financeira, econômica ou monetária do país;
 
+**V.** Prejudicar ou colocar em risco planos ou operações estratégicas das Forças Armadas;
 
+**VI.** Prejudicar ou colocar em risco projetos de pesquisa científica ou tecnológica, assim como sistemas, bens, instalações ou áreas de interesse estratégico nacional;
 
+**VII.** Colocar em risco a segurança de instituições ou de altas autoridades nacionais ou estrangeiras e seus familiares; ou
+
+**VIII.** Comprometer atividades de inteligência, investigação ou fiscalização em andamento, relacionadas com a prevenção ou repressão de crimes.
+
+---
+
+**Art. 24.** Informações que órgãos e entidades públicas têm podem ser classificadas como ultrassecretas, secretas ou reservadas, dependendo de quão importantes são para a segurança da sociedade ou do Estado.
+
+**§ 1º** Os prazos máximos para manter essas informações em segredo, a partir da data em que forem criadas, são:
+
+**i.** Ultrassecreta: 25 anos
+**ii.** Secreta: 15 anos
+**iii.** Reservada: 5 anos
+
+**§ 2º** Informações que possam colocar em risco a segurança do Presidente, Vice-Presidente e suas esposas e filhos(as) serão classificadas como reservadas e ficarão em segredo até o fim do mandato, ou do último mandato se houver reeleição.
+
+**§ 3º** Em vez dos prazos definidos no **§ 1º**, pode ser determinado que o acesso à informação seja restringido até um certo evento acontecer, desde que isso ocorra antes do prazo máximo.
+
+**§ 4º** Depois do prazo de sigilo ou do evento que define o fim do segredo, a informação se torna automaticamente pública.
+
+**§ 5º** Para classificar uma informação como secreta, deve-se considerar o interesse público e usar o critério menos restritivo possível, levando em conta:
+**i.** A gravidade do risco ou dano à segurança da sociedade e do Estado;
+**ii.** O prazo máximo de restrição de acesso ou o evento que define o fim do sigilo.
+
+---
+
+###### SEÇÃO III - DA PROTEÇÃO E DO CONTROLE DE INFORMAÇÕES SIGILOSAS
+
+**Art. 25.** O governo tem o dever de controlar o acesso e a divulgação de informações sigilosas que os órgãos e entidades públicas produzem, garantindo a sua proteção.
+
+**§ 1º** Apenas pessoas que realmente precisam saber e que têm autorização adequada podem acessar, divulgar ou tratar informações sigilosas, conforme as regras, sem prejudicar as funções dos agentes públicos autorizados por lei.
+
+**§ 2º** Quem tiver acesso a informações sigilosas tem a obrigação de manter esse sigilo.
+
+**§ 3º** Regulamentos vão definir procedimentos e medidas para tratar informações sigilosas, protegendo-as contra perda, alteração indevida, acesso, transmissão e divulgação não autorizados.
+
+---
+
+**Art. 26.** As autoridades públicas devem fazer o necessário para que seus subordinados conheçam e sigam as regras e procedimentos de segurança ao lidar com informações sigilosas.
+
+**Parágrafo único.** Qualquer pessoa ou empresa privada que tenha algum tipo de vínculo com o governo e trate informações sigilosas deve garantir que seus funcionários, representantes ou contratados sigam as regras e procedimentos de segurança estabelecidos por esta lei.
+
+###### SEÇÃO IV - DOS PROCEDIMENTOS DE CLASSIFICAÇÃO, RECLASSIFICAÇÃO E DESCLASSIFICAÇÃO
+
+**Art. 27.** Quem decide o nível de sigilo das informações na administração pública federal são:
+
+**I.** Para informações ultrassecretas (mais secretas):
+
+**a.** Presidente da República;
+**b.** Vice-Presidente da República;
+**c.** Ministros de Estado e autoridades de mesmo nível;
+**d.** Comandantes da Marinha, Exército e Aeronáutica; e
+**e.** Chefes de missões diplomáticas e consulados permanentes no exterior.
+
+**II.** Para informações secretas:
+
+**a.** As mesmas autoridades listadas no inciso I;
+**b.** Chefes de autarquias, fundações, empresas públicas e sociedades de economia mista.
+
+**III.** Para informações reservadas:
+
+**a.** As mesmas autoridades dos incisos I e II;
+**b.** E aqueles que ocupam funções de direção, comando ou chefia de nível alto, conforme regulamentação específica de cada órgão ou entidade.
+
+**§ 1º** A autoridade pode delegar a responsabilidade de classificar informações como ultrassecretas e secretas a outros agentes públicos, incluindo aqueles em missão no exterior, mas não pode subdelegar essa responsabilidade.
+
+**§ 2º** Quando Comandantes das Forças Armadas ou Chefes de missões internacionais classificarem algo como ultrassecreto, isso deve ser confirmado pelos respectivos Ministros no prazo estabelecido por regulamento.
+
+**§ 3º** Quando alguém classificar uma informação como ultrassecreta, deve enviar a decisão para a Comissão Mista de Reavaliação de Informações dentro do prazo regulamentar.
+
+---
+
+**Art. 28.** Quando uma informação for classificada como sigilosa, essa decisão deve ser formal e deve incluir pelo menos:
+
+**I.** O assunto da informação;
+
+**II.** O motivo da classificação, conforme os critérios do art. 24;
+
+**III.** O período que a informação será sigilosa (em anos, meses ou dias) ou o evento que definirá o fim do sigilo, conforme os limites do art. 24;
+
+**IV.** Quem foi a autoridade que classificou a informação.
+
+**Parágrafo único.** Essa decisão de classificação terá o mesmo nível de sigilo que a própria informação.
+
+---
+
+**Art. 29.** A classificação das informações será revista pela autoridade que fez a classificação ou por uma autoridade superior, quando solicitado ou por iniciativa própria, seguindo regras específicas para possivelmente torná-las públicas mais cedo ou reduzir o tempo de sigilo, conforme o art. 24.
+
+**§ 1º** As regras para revisão devem levar em conta as características das informações produzidas no exterior por autoridades ou agentes públicos.
+
+**§ 2º** Na revisão, deve-se verificar se ainda existem motivos para manter o sigilo e se há risco de danos caso a informação seja acessada ou divulgada.
+
+**§ 3º** Se o tempo de sigilo for reduzido, o novo prazo começa a contar a partir da data em que a informação foi inicialmente criada.
+
+---
+
+**Art. 30.** Todo ano, a autoridade principal de cada órgão ou entidade deve publicar na internet, em um site específico para dados e informações administrativas, as seguintes informações:
+
+**I** - Lista das informações que foram desclassificadas nos últimos 12 meses;
+
+**II** - Lista de documentos classificados em cada nível de sigilo, com identificação para referência futura;
+
+**III** - Relatório com estatísticas sobre a quantidade de pedidos de informação recebidos, atendidos e negados, além de informações gerais sobre quem solicitou.
+
+**§ 1º** Os órgãos e entidades devem manter uma cópia dessa publicação disponível para consulta pública em suas sedes.
+
+**§ 2º** Os órgãos e entidades também manterão uma lista resumida com as informações classificadas, incluindo a data, o nível de sigilo e os motivos da classificação.
+
+---
 
 
 
