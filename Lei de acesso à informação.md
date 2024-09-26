@@ -437,7 +437,31 @@ Parágrafo único. O recurso deve ser encaminhado à autoridade hierarquicamente
 
 ---
 
+**Art. 33.** Pessoas ou empresas que possuam informações devido a alguma relação com o governo e não seguirem esta lei estarão sujeitas a:
 
+**I.** Advertência;
+
+**II.** Multa;
+
+**III.** Rompimento do contrato com o governo;
+
+**IV.** Suspensão temporária de participar em licitações e proibição de contratar com o governo por até 2 anos;
+
+**V.** Declaração de inaptidão para licitar ou contratar com o governo até que sejam reabilitadas pela autoridade que aplicou a penalidade.
+
+**§ 1º** As sanções de advertência, rompimento de contrato e suspensão temporária podem ser aplicadas junto com a multa, garantindo o direito de defesa em um processo com prazo de 10 dias.
+
+**§ 2º** A reabilitação de uma empresa ou pessoa, declarada inidônea, só será permitida quando tiver ressarcido o órgão ou entidade dos prejuízos causados e após o fim do prazo de suspensão prevista no inciso IV.
+
+**§ 3º** A autoridade máxima do órgão ou entidade pública é a única que pode aplicar a sanção de inidoneidade, sendo permitido ao interessado se defender no processo em um prazo de 10 dias a partir da notificação.
+
+---
+
+**Art. 34.** Órgãos e entidades públicas são responsáveis pelos danos causados por divulgação não autorizada ou uso indevido de informações sigilosas ou pessoais. Se houve intenção ou negligência, devem averiguar a responsabilidade do funcionário, garantindo o direito de regresso (recuperar os custos de quem causou o dano).
+
+**Parágrafo único.** Esta regra também se aplica a pessoas ou empresas privadas que, por terem alguma relação com órgãos ou entidades, tenham acesso a informações sigilosas ou pessoais e as utilizem indevidamente.
+
+---
 
 
 </div>
