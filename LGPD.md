@@ -36,7 +36,7 @@
 
 **I.** O tratamento de dados aconteça no Brasil;
 
-**II.** A atividade de tratamento tenha como objetivo oferecer ou fornecer produtos ou serviços, ou tratar dados de pessoas que estão no Brasil;
+**II.** A atividade de tratamento tenha como objetivo oferecer ou fornecer produtos ou serviços, ou tratar dados de pessoas que estão no Brasil; ou
 
 **III.** Os dados pessoais tratados tenham sido coletados no Brasil.
 
