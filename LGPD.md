@@ -399,11 +399,11 @@
 
 ---
 
-**Art. 21.** Os dados pessoais relacionados ao exercício regular de direitos pelo titular não podem ser utilizados em seu prejuízo.
+**Art. 21.** Os dados pessoais usados pelo titular para exercer seus direitos não podem ser utilizados contra ele.
 
 ---
 
-**Art. 22.** A defesa dos interesses e dos direitos dos titulares de dados pode ser realizada na justiça, tanto de forma individual quanto coletiva, conforme o estabelecido na legislação pertinente sobre os instrumentos de tutela individual e coletiva.
+**Art. 22.** A defesa dos interesses e direitos dos titulares de dados pode ser feita na justiça, de forma individual ou coletiva, conforme o que está disposto na legislação aplicável sobre instrumentos de proteção individual e coletiva.
 
 ---
 
