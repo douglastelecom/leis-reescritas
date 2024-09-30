@@ -540,14 +540,14 @@
 
 **I.** Implementar um programa de governança em privacidade que, no mínimo:
   
-  **a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;
-  **b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;
-  **c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;
-  **d.** Estabeleça políticas e salvaguardas adequadas com base na avaliação sistemática de impactos e riscos à privacidade;
-  **e.** Estabeleça uma relação de confiança com o titular por meio de transparência e participação do titular;
-  **f.** Integre-se à estrutura geral de governança do controlador e estabeleça mecanismos de supervisão internos e externos;
-  **g.** Tenha planos de resposta a incidentes e remediação; e
-  **h.** Seja atualizado constantemente com base em monitoramento contínuo e avaliações periódicas.
+**a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;
+**b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;
+**c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;
+**d.** Estabeleça políticas e salvaguardas adequadas com base na avaliação sistemática de impactos e riscos à privacidade;
+**e.** Estabeleça uma relação de confiança com o titular por meio de transparência e participação do titular;
+**f.** Integre-se à estrutura geral de governança do controlador e estabeleça mecanismos de supervisão internos e externos;
+**g.** Tenha planos de resposta a incidentes e remediação; e
+**h.** Seja atualizado constantemente com base em monitoramento contínuo e avaliações periódicas.
 
 **II.** Mostrar a efetividade de seu programa de governança em privacidade quando solicitado, especialmente pela autoridade nacional ou outras entidades responsáveis por promover o cumprimento de boas práticas e códigos de conduta.
 
