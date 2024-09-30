@@ -587,7 +587,7 @@
 **iv.** Condição econômica do infrator;  
 **v.** Reincidência;  <br>
 **vi.** Grau de dano;  <br>
-**vii.** Cooperação do infrator; <br>  
+**vii.** Cooperação do infrator; <br>
 **viii.** Adoção de mecanismos e procedimentos internos capazes de minimizar o dano e assegurar o tratamento seguro e adequado dos dados;  <br>
 **iv.** Adoção de política de boas práticas e governança;  <br>
 **x.** Pronta adoção de medidas corretivas; e  <br>
