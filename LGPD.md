@@ -550,6 +550,8 @@
 
 **§ 3º** As regras de boas práticas e de governança devem ser publicadas e atualizadas regularmente e podem ser reconhecidas e divulgadas pela autoridade nacional.
 
+---
+
 **Art. 51.** A autoridade nacional incentivará a adoção de padrões técnicos que facilitem o controle dos titulares sobre seus próprios dados pessoais.
 
 #### CAPÍTULO VIII - DA FISCALIZAÇÃO
@@ -607,5 +609,16 @@
 
 **§ 7º** Vazamentos individuais ou acessos não autorizados podem ser resolvidos diretamente entre o controlador e o titular. Se não houver acordo, o controlador estará sujeito às penalidades deste artigo.
 
+**Art. 53.** A autoridade nacional definirá, por meio de regulamento próprio sobre sanções administrativas a infrações a esta Lei, que deverá ser objeto de consulta pública, as metodologias que orientarão o cálculo do valor-base das sanções de multa.
+
+**§ 1º** As metodologias devem ser publicadas previamente para conhecimento dos responsáveis pelo tratamento de dados, apresentando claramente as formas de cálculo das multas, com uma explicação detalhada de todos os seus elementos, demonstrando a observância dos critérios previstos nesta Lei.
+
+**§ 2º** O regulamento sobre sanções e metodologias deve estabelecer as circunstâncias e condições para a aplicação de multa simples ou diária.
+
+---
+
+**Art. 54.** O valor da multa diária aplicada a infrações deve considerar a gravidade da infração e a extensão do dano ou prejuízo causado, sendo justificado pela autoridade nacional.
+
+**Parágrafo único.** A notificação da sanção de multa diária deve conter, no mínimo, a descrição da obrigação imposta, o prazo razoável para seu cumprimento e o valor da multa diária a ser aplicada pelo descumprimento.
 
 </div>
