@@ -509,6 +509,7 @@
 **Art. 48.** O controlador deve informar à autoridade nacional e aos titulares sobre qualquer incidente de segurança que possa causar risco ou dano significativo aos titulares dos dados.
 
 **§ 1º** A comunicação deve ser feita em um prazo razoável, conforme determinado pela autoridade nacional, e deve incluir, no mínimo:
+
 **i.** A descrição da natureza dos dados pessoais afetados;  
 **ii.** Informações sobre os titulares envolvidos;  
 **iii.** Detalhes sobre as medidas técnicas e de segurança utilizadas para proteger os dados, respeitando segredos comerciais e industriais;  
@@ -517,6 +518,7 @@
 **vi.** As medidas que foram ou serão tomadas para reverter ou mitigar os efeitos do prejuízo.
 
 **§ 2º** A autoridade nacional avaliará a gravidade do incidente e pode, se necessário para proteger os direitos dos titulares, exigir que o controlador tome providências, como:
+
 **i.** Ampla divulgação do fato nos meios de comunicação; e  
 **ii.** Ações para reverter ou mitigar os efeitos do incidente.
 
@@ -537,6 +539,7 @@
 **§ 2º** Ao aplicar os princípios de proteção de dados pessoais, o controlador pode:
 
 **I.** Implementar um programa de governança em privacidade que, no mínimo:
+  
   **a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;
   **b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;
   **c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;
