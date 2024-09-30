@@ -818,8 +818,6 @@
 
 **XI.** 2 de entidades representativas do setor laboral.
 
----
-
 **§ 1º** Os representantes serão designados por ato do Presidente da República, com possibilidade de delegação.
 
 **§ 2º** Os representantes dos incisos **I** a **VI** e seus suplentes serão indicados pelos titulares dos respectivos órgãos e entidades da administração pública.
@@ -831,8 +829,6 @@
 **II.** Não podem ser membros do Comitê Gestor da Internet no Brasil;
 
 **III.** Terão mandato de 2 anos, com possibilidade de uma recondução.
-
----
 
 **§ 4º** A participação no Conselho será considerada prestação de serviço público relevante e não será remunerada.
 
