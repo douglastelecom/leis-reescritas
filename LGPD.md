@@ -556,17 +556,28 @@
 
 **Art. 52.** Os responsáveis pelo tratamento de dados, em caso de infração às normas desta Lei, estão sujeitos às seguintes sanções administrativas aplicadas pela autoridade nacional:
 
-**I.** Advertência, com prazo para adoção de medidas corretivas;  <br>
-**II.** Multa de até 2% do faturamento da empresa, grupo ou conglomerado no Brasil no último ano, excluídos os impostos, limitada a R$ 50 milhões por infração;  <br>
-**III.** Multa diária, respeitando o limite total mencionado no inciso II;  <br>
-**IV.** Divulgação da infração após confirmação;  <br>
-**V.** Bloqueio dos dados pessoais relacionados à infração até sua regularização;  <br>
-**VI.** Eliminação dos dados pessoais relacionados à infração;  <br>
-**VII.** (VETADO);  <br>
-**VIII.** (VETADO);  <br>
-**IX.** (VETADO);  <br>
-**X.** Suspensão parcial do funcionamento do banco de dados relacionado à infração por até 6 meses, prorrogáveis pelo mesmo período, até a regularização;  <br>
-**XI.** Suspensão da atividade de tratamento de dados pessoais relacionada à infração por até 6 meses, prorrogáveis pelo mesmo período;  <br>
+**I.** Advertência, com prazo para adoção de medidas corretivas;  
+
+**II.** Multa de até 2% do faturamento da empresa, grupo ou conglomerado no Brasil no último ano, excluídos os impostos, limitada a R$ 50 milhões por infração;
+
+**III.** Multa diária, respeitando o limite total mencionado no inciso II;
+
+**IV.** Divulgação da infração após confirmação;
+
+**V.** Bloqueio dos dados pessoais relacionados à infração até sua regularização;
+
+**VI.** Eliminação dos dados pessoais relacionados à infração;
+
+**VII.** (VETADO);
+
+**VIII.** (VETADO);
+
+**IX.** (VETADO);
+
+**X.** Suspensão parcial do funcionamento do banco de dados relacionado à infração por até 6 meses, prorrogáveis pelo mesmo período, até a regularização;
+
+**XI.** Suspensão da atividade de tratamento de dados pessoais relacionada à infração por até 6 meses, prorrogáveis pelo mesmo período;
+
 **XII.** Proibição parcial ou total de atividades relacionadas ao tratamento de dados.  
 
 **§ 1º** As sanções serão aplicadas após um procedimento administrativo que permita ampla defesa, de forma graduada, isolada ou cumulativa, conforme o caso específico, e considerando os seguintes critérios:<br>
