@@ -552,4 +552,49 @@
 
 **Art. 51.** A autoridade nacional incentivará a adoção de padrões técnicos que facilitem o controle dos titulares sobre seus próprios dados pessoais.
 
+#### CAPÍTULO VIII - DA FISCALIZAÇÃO
+
+**Art. 52.** Os responsáveis pelo tratamento de dados, em caso de infração às normas desta Lei, estão sujeitos às seguintes sanções administrativas aplicadas pela autoridade nacional:
+
+**I.** Advertência, com prazo para adoção de medidas corretivas;  <br>
+**II.** Multa de até 2% do faturamento da empresa, grupo ou conglomerado no Brasil no último ano, excluídos os impostos, limitada a R$ 50 milhões por infração;  <br>
+**III.** Multa diária, respeitando o limite total mencionado no inciso II;  <br>
+**IV.** Divulgação da infração após confirmação;  <br>
+**V.** Bloqueio dos dados pessoais relacionados à infração até sua regularização;  <br>
+**VI.** Eliminação dos dados pessoais relacionados à infração;  <br>
+**VII.** (VETADO);  <br>
+**VIII.** (VETADO);  <br>
+**IX.** (VETADO);  <br>
+**X.** Suspensão parcial do funcionamento do banco de dados relacionado à infração por até 6 meses, prorrogáveis pelo mesmo período, até a regularização;  <br>
+**XI.** Suspensão da atividade de tratamento de dados pessoais relacionada à infração por até 6 meses, prorrogáveis pelo mesmo período;  <br>
+**XII.** Proibição parcial ou total de atividades relacionadas ao tratamento de dados.  
+
+**§ 1º** As sanções serão aplicadas após um procedimento administrativo que permita ampla defesa, de forma graduada, isolada ou cumulativa, conforme o caso específico, e considerando os seguintes critérios:<br>
+**i.** Gravidade e natureza das infrações e dos direitos pessoais afetados;  <br>
+**ii.** Boa-fé do infrator;  <br>
+**iii.** Vantagem obtida ou pretendida pelo infrator;  <br>
+**iv.** Condição econômica do infrator;  
+**v.** Reincidência;  <br>
+**vi.** Grau de dano;  <br>
+**vii.** Cooperação do infrator; <br>  
+**viii.** Adoção de mecanismos e procedimentos internos capazes de minimizar o dano e assegurar o tratamento seguro e adequado dos dados;  <br>
+**iv.** Adoção de política de boas práticas e governança;  <br>
+**x.** Pronta adoção de medidas corretivas; e  <br>
+**xi.** Proporcionalidade entre a gravidade da infração e a sanção aplicada. <br>  
+
+**§ 2º** Este artigo não substitui a aplicação de outras sanções administrativas, civis ou penais previstas em outras leis, como a Lei nº 8.078, de 1990.  
+
+**§ 3º** As sanções dos incisos I, IV, V, VI, X, XI e XII podem ser aplicadas a entidades e órgãos públicos, além das sanções previstas em outras leis, como a Lei nº 8.112, de 1990, a Lei nº 8.429, de 1992, e a Lei nº 12.527, de 2011.  
+
+**§ 4º** Ao calcular o valor da multa do inciso II, a autoridade nacional pode considerar o faturamento total da empresa ou grupo de empresas se o faturamento específico não estiver disponível ou for apresentado de forma incompleta ou inadequada.  
+
+**§ 5º** O dinheiro arrecadado com as multas será destinado ao Fundo de Defesa de Direitos Difusos.  
+
+**§ 6º** As sanções dos incisos X, XI e XII serão aplicadas somente quando: <br>
+**i.** Pelo menos uma das sanções dos incisos II, III, IV, V e VI já tiver sido imposta para o mesmo caso; e <br> 
+**ii.** Em casos de controladores submetidos a outros órgãos com competências sancionatórias, esses órgãos serão consultados.  
+
+**§ 7º** Vazamentos individuais ou acessos não autorizados podem ser resolvidos diretamente entre o controlador e o titular. Se não houver acordo, o controlador estará sujeito às penalidades deste artigo.
+
+
 </div>
