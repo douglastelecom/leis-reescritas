@@ -50,19 +50,14 @@
 
 **I.** Quando alguém faz isso para uso pessoal, sem fins comerciais.
 
-**II.** Quando o tratamento é feito exclusivamente para:
-
+**II.** Quando o tratamento é feito exclusivamente para: <br>
 **a.** fins jornalísticos, artísticos; <br>
 **b.** fins acadêmicos (neste caso, os artigos 7º e 11 desta lei se aplicam).
 
-**III.** Quando o tratamento é feito exclusivamente para:
-
-**a.** segurança pública;
-
-**b.** defesa nacional;
-
-**c.** segurança do Estado; ou
-
+**III.** Quando o tratamento é feito exclusivamente para: <br>
+**a.** segurança pública;<br>
+**b.** defesa nacional;<br>
+**c.** segurança do Estado; ou<br>
 **d.** investigação e punição de crimes.
 
 **IV.** Quando os dados vêm de fora do Brasil e não são compartilhados com empresas ou pessoas no Brasil, e não são transferidos para outro país, desde que o país de origem tenha proteção de dados adequada, conforme esta lei.
