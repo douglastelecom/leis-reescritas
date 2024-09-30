@@ -239,14 +239,14 @@
 
 **I.** Quando o titular dos dados ou seu responsável legal der consentimento específico e destacado para finalidades específicas;
 
-**II.** Sem o consentimento do titular, nas seguintes situações indispensáveis:
-   **a.** Para cumprir uma obrigação legal ou regulatória do controlador;
-   **b.** Para a administração pública executar políticas públicas previstas em leis ou regulamentações, compartilhando os dados necessários;
-   **c.** Para estudos realizados por órgãos de pesquisa, garantindo a anonimização dos dados sensíveis sempre que possível;
-   **d.** Para o exercício regular de direitos, inclusive em contratos e processos judiciais, administrativos e de arbitragem;
-   **e.** Para proteger a vida ou a integridade física do titular ou de terceiros;
-   **f.** Para a tutela da saúde, exclusivamente em procedimentos realizados por profissionais de saúde, serviços de saúde ou autoridades sanitárias;
-   **g.** Para garantir a prevenção de fraudes e a segurança do titular, em processos de identificação e autenticação em sistemas eletrônicos, desde que respeitados os direitos mencionados no Art. 9º desta lei e não prevaleçam os direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+**II.** Sem o consentimento do titular, nas seguintes situações indispensáveis: <br>
+**a.** Para cumprir uma obrigação legal ou regulatória do controlador;<br>
+**b.** Para a administração pública executar políticas públicas previstas em leis ou regulamentações, compartilhando os dados necessários;<br>
+**c.** Para estudos realizados por órgãos de pesquisa, garantindo a anonimização dos dados sensíveis sempre que possível;<br>
+**d.** Para o exercício regular de direitos, inclusive em contratos e processos judiciais, administrativos e de arbitragem;<br>
+**e.** Para proteger a vida ou a integridade física do titular ou de terceiros;<br>
+**f.** Para a tutela da saúde, exclusivamente em procedimentos realizados por profissionais de saúde, serviços de saúde ou autoridades sanitárias;<br>
+**g.** Para garantir a prevenção de fraudes e a segurança do titular, em processos de identificação e autenticação em sistemas eletrônicos, desde que respeitados os direitos mencionados no Art. 9º desta lei e não prevaleçam os direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
 
 **§ 1º** As regras deste artigo se aplicam a qualquer tratamento de dados pessoais sensíveis que possa causar dano ao titular, exceto o disposto em leis específicas.
 
