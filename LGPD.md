@@ -52,7 +52,7 @@
 
 **II.** Quando o tratamento é feito exclusivamente para:
 
-**a.** fins jornalísticos, artísticos;
+**a.** fins jornalísticos, artísticos; <br>
 **b.** fins acadêmicos (neste caso, os artigos 7º e 11 desta lei se aplicam).
 
 **III.** Quando o tratamento é feito exclusivamente para:
