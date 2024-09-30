@@ -489,5 +489,67 @@
 
 #### CAPÍTULO V - DA TRANSFERÊNCIA INTERNACIONAL DE DADOS
 
+#### CAPÍTULO VI - DOS AGENTES DE TRATAMENTO DE DADOS PESSOAIS
+
+#### CAPÍTULO VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+###### SEÇÃO I - DA SEGURANÇA E DO SIGILO DE DADOS
+
+**Art. 46.** Os responsáveis pelo tratamento de dados devem adotar medidas de segurança, tanto técnicas quanto administrativas, para proteger os dados pessoais contra acessos não autorizados e situações acidentais ou ilegais de destruição, perda, alteração, comunicação ou qualquer forma inadequada ou ilegal de tratamento.
+
+**§ 1º** A autoridade nacional pode definir padrões técnicos mínimos para aplicar o que está previsto no caput deste artigo, considerando a natureza das informações tratadas, as características específicas do tratamento e o estado atual da tecnologia, especialmente no caso de dados pessoais sensíveis. Também devem ser levados em conta os princípios mencionados no Art. 6º desta Lei.
+
+**§ 2º** As medidas de segurança mencionadas no caput deste artigo devem ser seguidas desde a fase de concepção do produto ou serviço até sua execução.
+
+---
+
+**Art. 47.** Os responsáveis pelo tratamento de dados, ou qualquer pessoa envolvida em alguma fase do tratamento, são obrigados a garantir a segurança das informações em relação aos dados pessoais, mesmo após o término do tratamento.
+
+---
+
+**Art. 48.** O controlador deve informar à autoridade nacional e aos titulares sobre qualquer incidente de segurança que possa causar risco ou dano significativo aos titulares dos dados.
+
+**§ 1º** A comunicação deve ser feita em um prazo razoável, conforme determinado pela autoridade nacional, e deve incluir, no mínimo:
+**i.** A descrição da natureza dos dados pessoais afetados;  
+**ii.** Informações sobre os titulares envolvidos;  
+**iii.** Detalhes sobre as medidas técnicas e de segurança utilizadas para proteger os dados, respeitando segredos comerciais e industriais;  
+**iv.** Os riscos relacionados ao incidente;  
+**v.** As razões para a demora, se a comunicação não for imediata; e  
+**vi.** As medidas que foram ou serão tomadas para reverter ou mitigar os efeitos do prejuízo.
+
+**§ 2º** A autoridade nacional avaliará a gravidade do incidente e pode, se necessário para proteger os direitos dos titulares, exigir que o controlador tome providências, como:
+**i.** Ampla divulgação do fato nos meios de comunicação; e  
+**ii.** Ações para reverter ou mitigar os efeitos do incidente.
+
+**§ 3º** Na avaliação da gravidade do incidente, será considerado se foram adotadas medidas técnicas adequadas para tornar os dados pessoais afetados ininteligíveis para terceiros não autorizados.
+
+---
+
+**Art. 49.** Os sistemas usados para tratar dados pessoais devem ser projetados para cumprir os requisitos de segurança, seguir padrões de boas práticas e governança, e obedecer aos princípios gerais desta Lei e outras normas regulamentares.
+
+---
+
+###### SEÇÃO II - DAS BOAS PRÁTICAS E DA GOVERNANÇA
+
+**Art. 50.** Os controladores e operadores de dados pessoais, dentro de suas funções, podem criar regras de boas práticas e governança para organizar o tratamento de dados pessoais. Isso inclui estabelecer como vão funcionar, como lidar com reclamações e pedidos de titulares, normas de segurança, padrões técnicos, obrigações para todos envolvidos no tratamento, ações educativas, mecanismos internos de supervisão e redução de riscos, entre outros aspectos.
+
+**§ 1º** Ao criar essas regras de boas práticas, o controlador e o operador devem considerar a natureza, o escopo, a finalidade e os possíveis riscos e benefícios do tratamento de dados pessoais.
+
+**§ 2º** Ao aplicar os princípios de proteção de dados pessoais, o controlador pode:
+
+**I.** Implementar um programa de governança em privacidade que, no mínimo:
+  **a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;
+  **b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;
+  **c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;
+  **d.** Estabeleça políticas e salvaguardas adequadas com base na avaliação sistemática de impactos e riscos à privacidade;
+  **e.** Estabeleça uma relação de confiança com o titular por meio de transparência e participação do titular;
+  **f.** Integre-se à estrutura geral de governança do controlador e estabeleça mecanismos de supervisão internos e externos;
+  **g.** Tenha planos de resposta a incidentes e remediação; e
+  **h.** Seja atualizado constantemente com base em monitoramento contínuo e avaliações periódicas.
+
+**II.** Mostrar a efetividade de seu programa de governança em privacidade quando solicitado, especialmente pela autoridade nacional ou outras entidades responsáveis por promover o cumprimento de boas práticas e códigos de conduta.
+
+**§ 3º** As regras de boas práticas e de governança devem ser publicadas e atualizadas regularmente e podem ser reconhecidas e divulgadas pela autoridade nacional.
+
+**Art. 51.** A autoridade nacional incentivará a adoção de padrões técnicos que facilitem o controle dos titulares sobre seus próprios dados pessoais.
 
 </div>
