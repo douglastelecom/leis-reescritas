@@ -230,3 +230,183 @@
 **§ 2º** O controlador deve garantir a transparência do tratamento de dados baseado no seu interesse legítimo.
 
 **§ 3º** A autoridade nacional pode pedir ao controlador um relatório de impacto à proteção de dados pessoais quando o tratamento for baseado no interesse legítimo do controlador, respeitando segredos comerciais e industriais.
+
+---
+
+###### SEÇÃO II - DO TRATAMENTO DE DADOS PESSOAIS SENSÍVEIS
+
+**Art. 11** O tratamento de dados pessoais sensíveis só pode ocorrer nas seguintes situações:
+
+**I.** Quando o titular dos dados ou seu responsável legal der consentimento específico e destacado para finalidades específicas;
+
+**II.** Sem o consentimento do titular, nas seguintes situações indispensáveis:
+   **a.** Para cumprir uma obrigação legal ou regulatória do controlador;
+   **b.** Para a administração pública executar políticas públicas previstas em leis ou regulamentações, compartilhando os dados necessários;
+   **c.** Para estudos realizados por órgãos de pesquisa, garantindo a anonimização dos dados sensíveis sempre que possível;
+   **d.** Para o exercício regular de direitos, inclusive em contratos e processos judiciais, administrativos e de arbitragem;
+   **e.** Para proteger a vida ou a integridade física do titular ou de terceiros;
+   **f.** Para a tutela da saúde, exclusivamente em procedimentos realizados por profissionais de saúde, serviços de saúde ou autoridades sanitárias;
+   **g.** Para garantir a prevenção de fraudes e a segurança do titular, em processos de identificação e autenticação em sistemas eletrônicos, desde que respeitados os direitos mencionados no Art. 9º desta lei e não prevaleçam os direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+
+**§ 1º** As regras deste artigo se aplicam a qualquer tratamento de dados pessoais sensíveis que possa causar dano ao titular, exceto o disposto em leis específicas.
+
+**§ 2º** Quando os órgãos e entidades públicas aplicarem as regras das alíneas “a” e “b” do inciso II deste artigo, eles devem tornar pública a dispensa de consentimento, conforme o inciso I do Art. 23 desta lei.
+
+**§ 3º** A comunicação ou uso compartilhado de dados pessoais sensíveis entre controladores, visando obter vantagem econômica, pode ser proibido ou regulamentado pela autoridade nacional, consultando-se os órgãos setoriais do Poder Público.
+
+**§ 4º** É proibido comunicar ou usar compartilhadamente dados pessoais sensíveis de saúde para obtenção de vantagem econômica, exceto para prestação de serviços de saúde, assistência farmacêutica e assistência à saúde, respeitando o § 5º deste artigo e incluindo serviços auxiliares de diagnóstico e terapia. Isso pode ocorrer para:
+   **i.** A portabilidade de dados, se solicitada pelo titular;
+   **ii.** As transações financeiras e administrativas resultantes do uso e prestação desses serviços.
+
+**§ 5º** Operadoras de planos de saúde privados não podem tratar dados de saúde para seleção de riscos ao contratar ou excluir beneficiários.
+
+---
+
+**Art. 12** Os dados anonimizados (dados que não permitem identificação de uma pessoa) não são considerados dados pessoais para os fins desta lei, a menos que:
+
+- O processo de anonimização possa ser revertido usando apenas os próprios meios do controlador, ou
+- Com esforços razoáveis, seja possível reverter a anonimização.
+
+**§ 1º** A avaliação do que é "razoável" deve considerar fatores objetivos, como custo e tempo necessários para reverter a anonimização, as tecnologias disponíveis e o uso exclusivo dos próprios meios do controlador.
+
+**§ 2º** Para os fins desta lei, dados usados para criar um perfil comportamental de uma pessoa também podem ser considerados dados pessoais, se a pessoa for identificada.
+
+**§ 3º** A autoridade nacional pode definir padrões e técnicas para os processos de anonimização e avaliar sua segurança, consultando o Conselho Nacional de Proteção de Dados Pessoais.
+
+###### SEÇÃO III - DO TRATAMENTO DE DADOS PESSOAIS DE CRIANÇAS E ADOLESCENTES
+
+**Art. 13** Para estudos em saúde pública, órgãos de pesquisa podem acessar bases de dados pessoais. Esses dados devem ser tratados apenas dentro do órgão e usados exclusivamente para estudos e pesquisas, mantidos em ambiente controlado e seguro, de acordo com práticas de segurança específicas. Sempre que possível, os dados devem ser anonimizados ou pseudonimizados e os padrões éticos de estudos e pesquisas devem ser seguidos.
+
+**§ 1º** Os resultados ou qualquer parte do estudo ou pesquisa não podem, em hipótese alguma, revelar dados pessoais.
+
+**§ 2º** O órgão de pesquisa será responsável pela segurança da informação e em nenhuma circunstância pode transferir os dados a terceiros.
+
+**§ 3º** O acesso aos dados será regulamentado pela autoridade nacional e pelas autoridades de saúde e sanitárias, conforme suas competências.
+
+**§ 4º** Para este artigo, a pseudonimização significa tratar os dados de forma que eles só possam ser associados a um indivíduo usando informações adicionais que são mantidas separadamente pelo controlador em um ambiente controlado e seguro.
+
+###### SEÇÃO III - DO TRATAMENTO DE DADOS PESSOAIS DE CRIANÇAS E ADOLES
+
+**Art. 14** O tratamento de dados pessoais de crianças e de adolescentes deverá ser realizado em seu melhor interesse, nos termos deste artigo e da legislação pertinente.
+
+**§ 1º** O tratamento de dados pessoais de crianças deverá ser realizado com o consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal.
+
+**§ 2º** No tratamento de dados de que trata o § 1º deste artigo, os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização e os procedimentos para o exercício dos direitos a que se refere o art. 18 desta Lei.
+
+**§ 3º** Poderão ser coletados dados pessoais de crianças sem o consentimento a que se refere o § 1º deste artigo quando a coleta for necessária para contatar os pais ou o responsável legal, utilizados uma única vez e sem armazenamento, ou para sua proteção, e em nenhum caso poderão ser repassados a terceiro sem o consentimento de que trata o § 1º deste artigo.
+
+**§ 4º** Os controladores não deverão condicionar a participação dos titulares de que trata o § 1º deste artigo em jogos, aplicações de internet ou outras atividades ao fornecimento de informações pessoais além das estritamente necessárias à atividade.
+
+**§ 5º** O controlador deve realizar todos os esforços razoáveis para verificar que o consentimento a que se refere o § 1º deste artigo foi dado pelo responsável pela criança, consideradas as tecnologias disponíveis.
+
+**§ 6º** As informações sobre o tratamento de dados referidas neste artigo deverão ser fornecidas de maneira simples, clara e acessível, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, com uso de recursos audiovisuais quando adequado, de forma a proporcionar a informação necessária aos pais ou ao responsável legal e adequada ao entendimento da criança.
+
+###### SEÇÃO IV - DO TÉRMINO DO TRATAMENTO DE DADOS
+
+**Art. 15** O tratamento de dados pessoais chega ao fim nas seguintes situações:
+
+**I.** Quando a finalidade para a qual os dados foram coletados é alcançada ou quando os dados já não são necessários para essa finalidade;
+
+**II.** Quando o período estabelecido para o tratamento dos dados termina;
+
+**III.** Quando o titular dos dados solicita o término, inclusive ao revogar o consentimento, conforme o § 5º do Art. 8º desta lei, desde que não haja interesse público em manter o tratamento;
+
+**IV.** Quando a autoridade nacional determina o término, em caso de violação das disposições desta lei.
+
+---
+
+**Art. 16** Os dados pessoais devem ser eliminados após o término do seu tratamento, dentro dos limites técnicos das atividades, mas podem ser mantidos para as seguintes finalidades:
+
+**I.** Para cumprir uma obrigação legal ou regulatória do controlador;
+
+**II.** Para estudos por órgãos de pesquisa, garantindo a anonimização dos dados sempre que possível;
+
+**III.** Para transferência a terceiros, desde que sejam respeitadas as regras de tratamento de dados desta lei;
+
+**IV.** Para uso exclusivo do controlador, desde que os dados sejam anonimizados e não acessíveis por terceiros.
+
+---
+
+#### CAPÍTULO III - DOS DIREITOS DO TITULAR
+
+**Art. 17** Toda pessoa tem o direito sobre seus dados pessoais e é garantido os direitos fundamentais de liberdade, intimidade e privacidade, conforme esta lei.
+
+**Art. 18** O titular dos dados pessoais tem o direito de pedir ao controlador, a qualquer momento, as seguintes coisas sobre seus dados:
+
+**I.** Confirmação de que seus dados estão sendo tratados;
+
+**II.** Acesso aos seus dados;
+
+**III.** Correção de dados incompletos, incorretos ou desatualizados;
+
+**IV.** Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desacordo com a lei;
+
+**V.** Transferência (portabilidade) dos dados a outro fornecedor de serviço ou produto, conforme regulamentação da autoridade nacional, respeitando segredos comerciais e industriais;
+
+**VI.** Eliminação dos dados tratados com consentimento do titular, exceto nas situações previstas no Art. 16 desta lei;
+
+**VII.** Informação sobre quais entidades públicas e privadas tiveram acesso aos seus dados;
+
+**VIII.** Informação sobre a possibilidade de não fornecer consentimento e as consequências da negativa;
+
+**IX.** Revogação do consentimento, conforme § 5º do Art. 8º desta lei.
+
+**§ 1º** O titular tem o direito de queixar-se à autoridade nacional sobre seus dados contra o controlador.
+
+**§ 2º** O titular pode se opor ao tratamento de seus dados com base em hipóteses que dispensam o consentimento, se houver descumprimento da lei.
+
+**§ 3º** Os direitos deste artigo podem ser exercidos pelo titular ou por um representante legalmente autorizado, diretamente ao agente de tratamento.
+
+**§ 4º** Se não for possível atender imediatamente ao pedido do **§ 3º**, o controlador deve enviar uma resposta ao titular que pode:
+
+**I.** Informar que não é o agente de tratamento dos dados e indicar, se possível, o agente correto; ou
+
+**II.** Explicar os motivos legais ou factuais que impedem a ação imediata.
+
+**§ 5º** O pedido do **§ 3º** deve ser atendido sem custo para o titular, nos prazos e termos definidos em regulamentação.
+
+**§ 6º** O responsável deve informar imediatamente aos agentes de tratamento com quem compartilhou os dados sobre quaisquer correções, eliminações, anonimizações ou bloqueios de dados, para que eles façam o mesmo, exceto se isso for impossível ou exigir esforço desproporcional.
+
+**§ 7º** A transferência dos dados pessoais referida no inciso V deste artigo não inclui dados que já foram tornados anônimos.
+
+**§ 8º** O direito mencionado no § 1º deste artigo também pode ser exercido junto às organizações de defesa do consumidor.
+
+---
+
+**Art. 19.** A confirmação de que existem dados pessoais ou o acesso a esses dados será providenciado quando solicitado pelo titular:
+**i.** De forma simplificada, imediatamente;
+**ii** Através de uma declaração completa e clara que informe a origem dos dados, se há ou não registro, os critérios usados e a finalidade do tratamento, tudo isso respeitando segredos comerciais e industriais. Essa declaração deve ser fornecida em até 15 dias a partir da solicitação do titular.
+
+**§ 1º** Os dados pessoais serão armazenados de uma forma que facilite o acesso por parte do titular.
+
+**§ 2º** As informações e dados poderão ser fornecidos, conforme a preferência do titular:
+**i.** Por meio eletrônico, seguro e adequado para esse fim;
+**ii.** Em forma impressa.
+
+**§ 3º** Quando os dados forem tratados com base no consentimento do titular ou em contrato, o titular pode solicitar uma cópia eletrônica completa de seus dados pessoais, respeitando segredos comerciais e industriais, de modo que permita o uso subsequente desses dados em outras operações de tratamento.
+
+**§ 4º** A autoridade nacional pode definir prazos diferentes aos mencionados nos pontos I e II deste artigo para setores específicos.
+
+---
+
+**Art. 20.** O titular dos dados possui o direito de solicitar a revisão de decisões que foram tomadas exclusivamente por meio de tratamento automatizado de dados pessoais que afetem seus interesses. Isso inclui decisões que definem perfil pessoal, profissional, de consumo, de crédito ou aspectos da personalidade.
+
+**§ 1º** O controlador de dados deve fornecer, sempre que solicitado, informações claras e adequadas sobre os critérios e os procedimentos utilizados para a tomada de decisão automatizada, respeitando os segredos comercial e industrial.
+
+**§ 2º** Caso essas informações não sejam fornecidas devido à proteção de segredos comerciais e industriais, a autoridade nacional tem o direito de realizar uma auditoria para verificar se há aspectos discriminatórios no tratamento automatizado de dados.
+
+**§ 3º** (Vetado)
+
+---
+
+**Art. 21.** Os dados pessoais relacionados ao exercício regular de direitos pelo titular não podem ser utilizados em seu prejuízo.
+
+---
+
+**Art. 22.** A defesa dos interesses e dos direitos dos titulares de dados pode ser realizada na justiça, tanto de forma individual quanto coletiva, conforme o estabelecido na legislação pertinente sobre os instrumentos de tutela individual e coletiva.
+
+---
+
+
+
+</div>
