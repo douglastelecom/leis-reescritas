@@ -609,6 +609,8 @@
 
 **§ 7º** Vazamentos individuais ou acessos não autorizados podem ser resolvidos diretamente entre o controlador e o titular. Se não houver acordo, o controlador estará sujeito às penalidades deste artigo.
 
+---
+
 **Art. 53.** A autoridade nacional definirá, por meio de regulamento próprio sobre sanções administrativas a infrações a esta Lei, que deverá ser objeto de consulta pública, as metodologias que orientarão o cálculo do valor-base das sanções de multa.
 
 **§ 1º** As metodologias devem ser publicadas previamente para conhecimento dos responsáveis pelo tratamento de dados, apresentando claramente as formas de cálculo das multas, com uma explicação detalhada de todos os seus elementos, demonstrando a observância dos critérios previstos nesta Lei.
@@ -620,5 +622,175 @@
 **Art. 54.** O valor da multa diária aplicada a infrações deve considerar a gravidade da infração e a extensão do dano ou prejuízo causado, sendo justificado pela autoridade nacional.
 
 **Parágrafo único.** A notificação da sanção de multa diária deve conter, no mínimo, a descrição da obrigação imposta, o prazo razoável para seu cumprimento e o valor da multa diária a ser aplicada pelo descumprimento.
+
+#### CAPÍTULO IX - DA AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (ANPD) E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE
+###### SEÇÃO I - DA AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (ANPD)
+
+**Art. 55-A.** Foi criada a Autoridade Nacional de Proteção de Dados (ANPD), uma autarquia especial com autonomia técnica e decisória, patrimônio próprio, com sede e foro no Distrito Federal.
+
+---
+
+**Art. 55-C.** A ANPD é composta por:
+
+**I.** Conselho Diretor, órgão máximo de direção;
+
+**II.** Conselho Nacional de Proteção de Dados Pessoais e da Privacidade;
+
+**III.** Corregedoria;
+
+**IV.** Ouvidoria;
+
+**V.** (revogado);
+
+**V-A.** Procuradoria;
+
+**VI.** unidades administrativas e unidades especializadas necessárias para aplicar esta Lei.
+
+---
+
+**Art. 55-D.** O Conselho Diretor da ANPD será composto por 5 diretores, incluindo o Diretor-Presidente.
+
+**§ 1º** Os membros do Conselho Diretor serão escolhidos pelo Presidente da República e nomeados após aprovação pelo Senado Federal, e ocuparão cargos de comissão do Grupo-Direção e Assessoramento Superiores (DAS), no mínimo, de nível 5.
+
+**§ 2º** Os membros do Conselho Diretor serão escolhidos entre brasileiros com reputação ilibada, nível superior de educação e elevado conceito na área de especialidade do cargo.
+
+**§ 3º** O mandato dos membros do Conselho Diretor será de 4 anos.
+
+**§ 4º** Os mandatos dos primeiros membros nomeados serão de 2, 3, 4, 5 e 6 anos, conforme estabelecido na nomeação.
+
+**§ 5º** Se um cargo no Conselho Diretor ficar vago durante o mandato, o sucessor completará o prazo restante.
+
+**Art. 55-E.** Os membros do Conselho Diretor só perderão seus cargos em caso de renúncia, condenação judicial definitiva ou demissão após um processo administrativo disciplinar.
+
+**§ 1º** O Ministro da Casa Civil da Presidência da República é responsável por iniciar o processo administrativo disciplinar, que será conduzido por uma comissão especial de servidores públicos federais estáveis.
+
+**§ 2º** O Presidente da República pode determinar o afastamento temporário, se recomendado pela comissão especial, e tomar a decisão final.
+
+---
+
+**Art. 55-F.** Aplica-se aos membros do Conselho Diretor, após o exercício do cargo, o disposto no Art. 6º da Lei nº 12.813, de 16 de maio de 2013.
+
+**Parágrafo único.** A violação do Art. 55-F caracteriza ato de improbidade administrativa.
+
+---
+
+**Art. 55-G.** O Presidente da República definirá a estrutura regimental da ANPD.
+
+**§ 1º** Até a entrada em vigor de sua estrutura regimental, a ANPD contará com apoio técnico e administrativo da Casa Civil da Presidência da República.
+
+**§ 2º** O Conselho Diretor definirá o regimento interno da ANPD.
+
+---
+
+**Art. 55-H.** Os cargos em comissão e funções de confiança da ANPD serão transferidos de outros órgãos e entidades do Poder Executivo federal.
+
+---
+
+**Art. 55-I.** Os ocupantes dos cargos em comissão e funções de confiança da ANPD serão indicados pelo Conselho Diretor e nomeados ou designados pelo Diretor-Presidente.
+
+---
+
+**Art. 55-J.** Compete à ANPD:
+
+**I.** Proteger os dados pessoais, conforme a legislação;
+
+**II.** Garantir o respeito aos segredos comercial e industrial, protegendo dados pessoais e sigilo de informações, quando pela lei ou quando a quebra do sigilo violaria os fundamentos do Art. 2º desta Lei;
+
+**III.** Elaborar diretrizes para a Política Nacional de Proteção de Dados Pessoais e da Privacidade;
+
+**IV.** Fiscalizar e aplicar sanções em caso de tratamento de dados ilegal, mediante processo administrativo que assegure defesa e recurso;
+
+**V.** Analisar petições de titulares contra controladores após reclamação não solucionada no prazo regulamentar;
+
+**VI.** Promover conhecimento público sobre normas e políticas de proteção de dados e medidas de segurança;
+
+**VII.** Realizar estudos sobre práticas nacionais e internacionais de proteção de dados e privacidade;
+
+**VIII.** Incentivar padrões para serviços e produtos que facilitem aos titulares o controle sobre seus dados pessoais, considerando as especificidades e tamanho das empresas;
+
+**IX.** Promover cooperação com autoridades de proteção de dados de outros países;
+
+**X.** Definir formas de publicidade das operações de tratamento de dados, respeitando segredos comercial e industrial;
+
+**XI.** Solicitar informações específicas às entidades do poder público sobre operações de tratamento de dados e emitir parecer técnico complementar;
+
+**XII.** Elaborar relatórios de gestão anuais sobre suas atividades;
+
+**XIII.** Editar regulamentos e procedimentos sobre proteção de dados e relatórios de impacto em casos de alto risco;
+
+**XIV.** Consultar agentes de tratamento e sociedade em matérias relevantes e prestar contas de suas atividades;
+
+**XV.** Arrecadar e aplicar suas receitas e detalhar receitas e despesas no relatório de gestão;
+
+**XVI.** Realizar auditorias sobre o tratamento de dados pessoais, incluindo pelo poder público;
+
+**XVII.** Celebrar compromisso com agentes de tratamento para eliminar irregularidades ou incertezas jurídicas;
+
+**XVIII.** Editar normas e procedimentos simplificados para microempresas e pequenas empresas, startups e empresas de inovação adequarem-se à Lei;
+
+**XIX.** Garantir que o tratamento de dados de idosos seja claro e acessível, conforme a Lei e o Estatuto do Idoso;
+
+**XX.** Decidir administrativamente sobre a interpretação da Lei, suas competências e casos omissos;
+
+**XXI.** Comunicar infrações penais às autoridades competentes;
+
+**XXII.** Comunicar aos órgãos de controle interno sobre o descumprimento da Lei por órgãos e entidades da administração pública federal;
+
+**XXIII.** Colaborar com autoridades reguladoras em atividades econômicas e governamentais sujeitas à regulação;
+
+**XXIV.** Implementar mecanismos simplificados para o registro de reclamações sobre tratamento de dados pessoais.
+
+**§ 1º** Quando a ANPD impuser restrições ou condições ao tratamento de dados pessoais por empresas privadas, deve garantir que a intervenção seja mínima, respeitando os fundamentos, princípios e direitos dos titulares previstos no Art. 170 da Constituição Federal e nesta Lei.
+
+**§ 2º** Antes de editar regulamentos e normas, a ANPD deve realizar consultas e audiências públicas e fazer análises de impacto regulatório.
+
+**§ 3º** A ANPD deve coordenar suas atividades com os órgãos públicos responsáveis pela regulação de setores específicos, visando assegurar eficiência e bom funcionamento dos setores regulados, conforme a legislação e a Lei de Proteção de Dados.
+
+**§ 4º** A ANPD manterá um fórum permanente de comunicação, inclusive por meio de cooperação técnica, com órgãos e entidades da administração pública que regulam setores específicos, para facilitar suas funções regulatórias, de fiscalização e punição.
+
+**§ 5º** No exercício de suas competências, a autoridade deve proteger o segredo empresarial e o sigilo das informações, conforme a lei.
+
+**§ 6º** As reclamações recebidas podem ser analisadas de forma conjunta, e as ações resultantes podem ser padronizadas.
+
+---
+
+**Art. 55-K.** A aplicação das sanções previstas nesta Lei é de competência exclusiva da ANPD. Suas competências em proteção de dados pessoais prevalecem sobre as competências similares de outras entidades ou órgãos da administração pública.
+
+**Parágrafo único.** A ANPD irá coordenar sua atuação com outros órgãos e entidades que possuam competências sancionatórias e normativas relacionadas à proteção de dados pessoais. Será o órgão central para interpretar esta Lei, estabelecer normas e diretrizes para sua implementação.
+
+---
+
+**Art. 55-L.** As receitas da ANPD incluem:
+
+**I.** Dotações do orçamento geral da União, créditos especiais e adicionais, transferências e repasses conferidos;
+
+**II.** Doações, legados, subvenções e outros recursos destinados à ANPD;
+
+**III.** Valores obtidos pela venda ou aluguel de bens móveis e imóveis de sua propriedade;
+
+**IV.** Valores obtidos por aplicações financeiras de suas receitas;
+
+**V.** (VETADO);
+
+**VI.** Recursos de acordos, convênios ou contratos com entidades, organismos ou empresas, públicas ou privadas, nacionais ou internacionais;
+
+**VII.** Produtos da venda de publicações, material técnico, dados e informações, inclusive para fins de licitação pública.
+
+---
+
+**Art. 55-M.** O patrimônio da ANPD é constituído por:
+
+**I.** Bens e direitos transferidos pelos órgãos da Presidência da República;
+
+**II.** Bens e direitos que adquira ou incorpore.
+
+---
+
+**Art. 56.** (VETADO).
+
+---
+
+**Art. 57.** (VETADO).
+
 
 </div>
