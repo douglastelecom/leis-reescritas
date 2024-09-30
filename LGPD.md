@@ -254,9 +254,9 @@
 
 **§ 3º** A comunicação ou uso compartilhado de dados pessoais sensíveis entre controladores, visando obter vantagem econômica, pode ser proibido ou regulamentado pela autoridade nacional, consultando-se os órgãos setoriais do Poder Público.
 
-**§ 4º** É proibido comunicar ou usar compartilhadamente dados pessoais sensíveis de saúde para obtenção de vantagem econômica, exceto para prestação de serviços de saúde, assistência farmacêutica e assistência à saúde, respeitando o § 5º deste artigo e incluindo serviços auxiliares de diagnóstico e terapia. Isso pode ocorrer para:
-   **i.** A portabilidade de dados, se solicitada pelo titular;
-   **ii.** As transações financeiras e administrativas resultantes do uso e prestação desses serviços.
+**§ 4º** É proibido comunicar ou usar compartilhadamente dados pessoais sensíveis de saúde para obtenção de vantagem econômica, exceto para prestação de serviços de saúde, assistência farmacêutica e assistência à saúde, respeitando o § 5º deste artigo e incluindo serviços auxiliares de diagnóstico e terapia. Isso pode ocorrer para:<br>
+**i.** A portabilidade de dados, se solicitada pelo titular;<br>
+**ii.** As transações financeiras e administrativas resultantes do uso e prestação desses serviços.
 
 **§ 5º** Operadoras de planos de saúde privados não podem tratar dados de saúde para seleção de riscos ao contratar ou excluir beneficiários.
 
@@ -373,14 +373,14 @@
 
 ---
 
-**Art. 19.** A confirmação de que existem dados pessoais ou o acesso a esses dados será providenciado quando solicitado pelo titular:
-**i.** De forma simplificada, imediatamente;
+**Art. 19.** A confirmação de que existem dados pessoais ou o acesso a esses dados será providenciado quando solicitado pelo titular:<br>
+**i.** De forma simplificada, imediatamente;<br>
 **ii** Através de uma declaração completa e clara que informe a origem dos dados, se há ou não registro, os critérios usados e a finalidade do tratamento, tudo isso respeitando segredos comerciais e industriais. Essa declaração deve ser fornecida em até 15 dias a partir da solicitação do titular.
 
 **§ 1º** Os dados pessoais serão armazenados de uma forma que facilite o acesso por parte do titular.
 
-**§ 2º** As informações e dados poderão ser fornecidos, conforme a preferência do titular:
-**i.** Por meio eletrônico, seguro e adequado para esse fim;
+**§ 2º** As informações e dados poderão ser fornecidos, conforme a preferência do titular:<br>
+**i.** Por meio eletrônico, seguro e adequado para esse fim;<br>
 **ii.** Em forma impressa.
 
 **§ 3º** Quando os dados forem tratados com base no consentimento do titular ou em contrato, o titular pode solicitar uma cópia eletrônica completa de seus dados pessoais, respeitando segredos comerciais e industriais, de modo que permita o uso subsequente desses dados em outras operações de tratamento.
@@ -444,11 +444,11 @@
 
 **Art. 26.** O uso compartilhado de dados pessoais pelo Poder Público deve ter finalidades específicas de implementação de políticas públicas e atribuições legais, respeitando os princípios de proteção de dados pessoais estabelecidos no Art. 6º desta Lei.
 
-**§ 1º** É proibido ao Poder Público transferir dados pessoais para entidades privadas, exceto:  
-**i.** Quando necessário para a execução descentralizada de uma atividade pública, exclusivamente para esse fim específico, conforme a Lei de Acesso à Informação (Lei nº 12.527, de 2011);  
-**ii.** (VETADO);  
-**iii.** Quando os dados forem publicamente acessíveis, observando as disposições desta Lei;  
-**iv.** Quando houver previsão legal ou quando a transferência for respaldada em contratos, convênios ou acordos similares;  
+**§ 1º** É proibido ao Poder Público transferir dados pessoais para entidades privadas, exceto:  <br>
+**i.** Quando necessário para a execução descentralizada de uma atividade pública, exclusivamente para esse fim específico, conforme a Lei de Acesso à Informação (Lei nº 12.527, de 2011);  <br>
+**ii.** (VETADO);  <br>
+**iii.** Quando os dados forem publicamente acessíveis, observando as disposições desta Lei;  <br>
+**iv.** Quando houver previsão legal ou quando a transferência for respaldada em contratos, convênios ou acordos similares;  <br>
 **v.** Quando a transferência de dados tiver como único objetivo a prevenção de fraudes e irregularidades, ou proteger a segurança e a integridade do titular dos dados, desde que não sejam tratados para outros fins.
 
 **§ 2º** Os contratos e convênios mencionados no § 1º devem ser comunicados à autoridade nacional.
@@ -508,18 +508,16 @@
 
 **Art. 48.** O controlador deve informar à autoridade nacional e aos titulares sobre qualquer incidente de segurança que possa causar risco ou dano significativo aos titulares dos dados.
 
-**§ 1º** A comunicação deve ser feita em um prazo razoável, conforme determinado pela autoridade nacional, e deve incluir, no mínimo:
-
-**i.** A descrição da natureza dos dados pessoais afetados;  
-**ii.** Informações sobre os titulares envolvidos;  
+**§ 1º** A comunicação deve ser feita em um prazo razoável, conforme determinado pela autoridade nacional, e deve incluir, no mínimo:<br>
+**i.** A descrição da natureza dos dados pessoais afetados;  <br>
+**ii.** Informações sobre os titulares envolvidos;  <br>
 **iii.** Detalhes sobre as medidas técnicas e de segurança utilizadas para proteger os dados, respeitando segredos comerciais e industriais;  
-**iv.** Os riscos relacionados ao incidente;  
-**v.** As razões para a demora, se a comunicação não for imediata; e  
+**iv.** Os riscos relacionados ao incidente;  <br>
+**v.** As razões para a demora, se a comunicação não for imediata; e  <br>
 **vi.** As medidas que foram ou serão tomadas para reverter ou mitigar os efeitos do prejuízo.
 
-**§ 2º** A autoridade nacional avaliará a gravidade do incidente e pode, se necessário para proteger os direitos dos titulares, exigir que o controlador tome providências, como:
-
-**i.** Ampla divulgação do fato nos meios de comunicação; e  
+**§ 2º** A autoridade nacional avaliará a gravidade do incidente e pode, se necessário para proteger os direitos dos titulares, exigir que o controlador tome providências, como:<br>
+**i.** Ampla divulgação do fato nos meios de comunicação; e <br> 
 **ii.** Ações para reverter ou mitigar os efeitos do incidente.
 
 **§ 3º** Na avaliação da gravidade do incidente, será considerado se foram adotadas medidas técnicas adequadas para tornar os dados pessoais afetados ininteligíveis para terceiros não autorizados.
@@ -538,15 +536,14 @@
 
 **§ 2º** Ao aplicar os princípios de proteção de dados pessoais, o controlador pode:
 
-**I.** Implementar um programa de governança em privacidade que, no mínimo:
-  
-**a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;
-**b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;
-**c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;
-**d.** Estabeleça políticas e salvaguardas adequadas com base na avaliação sistemática de impactos e riscos à privacidade;
-**e.** Estabeleça uma relação de confiança com o titular por meio de transparência e participação do titular;
-**f.** Integre-se à estrutura geral de governança do controlador e estabeleça mecanismos de supervisão internos e externos;
-**g.** Tenha planos de resposta a incidentes e remediação; e
+**I.** Implementar um programa de governança em privacidade que, no mínimo:<br>
+**a.** Mostre o comprometimento do controlador em seguir normas e boas práticas de proteção de dados pessoais;<br>
+**b.** Aplique-se a todos os dados pessoais sob seu controle, independentemente de como foram coletados;<br>
+**c.** Adapte-se à estrutura, escala, volume de operações e sensibilidade dos dados tratados;<br>
+**d.** Estabeleça políticas e salvaguardas adequadas com base na avaliação sistemática de impactos e riscos à privacidade;<br>
+**e.** Estabeleça uma relação de confiança com o titular por meio de transparência e participação do titular;<br>
+**f.** Integre-se à estrutura geral de governança do controlador e estabeleça mecanismos de supervisão internos e externos;<br>
+**g.** Tenha planos de resposta a incidentes e remediação; e<br>
 **h.** Seja atualizado constantemente com base em monitoramento contínuo e avaliações periódicas.
 
 **II.** Mostrar a efetividade de seu programa de governança em privacidade quando solicitado, especialmente pela autoridade nacional ou outras entidades responsáveis por promover o cumprimento de boas práticas e códigos de conduta.
