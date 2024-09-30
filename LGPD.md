@@ -407,6 +407,87 @@
 
 ---
 
+#### CAPÍTULO IV - DO TRATAMENTO DE DADOS PESSOAIS PELO PODER PÚBLICO
+###### SEÇÃO I - DAS REGRAS
+
+**Art. 23.** Quando órgãos públicos tratam dados pessoais, isso deve ser feito para cumprir suas funções legais e servir ao interesse público, desde que:
+
+**I.** Informem claramente em quais situações tratam dados pessoais, explicando a base legal, o propósito, os procedimentos e práticas utilizadas. Essas informações devem ser de fácil acesso, preferencialmente em seus sites;
+
+**II.** (VETADO);
+
+**III.** Sejam nomeados encarregados para as operações de tratamento de dados pessoais, conforme o Art. 39 desta Lei;
+
+**IV.** (VETADO).
+
+**§ 1º** A autoridade nacional pode determinar como as operações de tratamento de dados devem ser publicadas.
+
+**§ 2º** Esta Lei não isenta os órgãos públicos de instituir as autoridades mencionadas na Lei de Acesso à Informação.
+
+**§ 3º** Os prazos e procedimentos para o exercício dos direitos do titular perante o Poder Público seguirão o que diz a legislação específica, especialmente a Lei do Habeas Data, a Lei Geral do Processo Administrativo e a Lei de Acesso à Informação.
+
+**§ 4º** Serviços notariais e de registro realizados de forma privada, mas por delegação do Poder Público, terão o mesmo tratamento dado aos órgãos públicos mencionados no caput, de acordo com esta Lei.
+
+**§ 5º** Os órgãos notariais e de registro devem fornecer acesso aos dados de forma eletrônica para a administração pública, conforme os objetivos do caput deste artigo.
+
+---
+
+**Art. 24.** As empresas públicas e as sociedades de economia mista que operam em regime de concorrência, conforme o Art. 173 da Constituição Federal, terão o mesmo tratamento dado às empresas privadas, conforme esta Lei.
+
+**Parágrafo único.** Quando essas empresas públicas e sociedades de economia mista estiverem implementando políticas públicas, elas terão o mesmo tratamento dado aos órgãos e entidades do Poder Público, conforme este Capítulo.
+
+---
+
+**Art. 25.** Os dados devem ser mantidos em formato interoperável e estruturado para serem compartilhados, visando a implementação de políticas públicas, a prestação de serviços públicos, a descentralização das atividades públicas e para possibilitar o acesso e disseminação das informações ao público em geral.
+
+---
+
+**Art. 26.** O uso compartilhado de dados pessoais pelo Poder Público deve ter finalidades específicas de implementação de políticas públicas e atribuições legais, respeitando os princípios de proteção de dados pessoais estabelecidos no Art. 6º desta Lei.
+
+**§ 1º** É proibido ao Poder Público transferir dados pessoais para entidades privadas, exceto:  
+**i.** Quando necessário para a execução descentralizada de uma atividade pública, exclusivamente para esse fim específico, conforme a Lei de Acesso à Informação (Lei nº 12.527, de 2011);  
+**ii.** (VETADO);  
+**iii.** Quando os dados forem publicamente acessíveis, observando as disposições desta Lei;  
+**iv.** Quando houver previsão legal ou quando a transferência for respaldada em contratos, convênios ou acordos similares;  
+**v.** Quando a transferência de dados tiver como único objetivo a prevenção de fraudes e irregularidades, ou proteger a segurança e a integridade do titular dos dados, desde que não sejam tratados para outros fins.
+
+**§ 2º** Os contratos e convênios mencionados no § 1º devem ser comunicados à autoridade nacional.
+
+---
+
+**Art. 27.** A comunicação ou o compartilhamento de dados pessoais de uma entidade pública com uma entidade privada deve ser informado à autoridade nacional e precisa do consentimento do titular, exceto:  
+
+**I.** Nas situações onde o consentimento não é necessário, conforme disposto nesta Lei;  
+
+**II.** Nos casos de compartilhamento de dados onde haverá publicidade conforme o inciso I do Art. 23 desta Lei; ou  
+
+**III.** Nas exceções previstas no § 1º do Art. 26 desta Lei.  
+
+**Parágrafo único.** A forma de informar a autoridade nacional sobre essa comunicação será regulamentada.
+
+---
+
+**Art. 28.** (VETADO).
+
+---
+
+**Art. 29.** A autoridade nacional pode, a qualquer momento, solicitar aos órgãos e entidades do poder público informações específicas sobre como estão tratando os dados pessoais, incluindo a natureza dos dados e outros detalhes do tratamento. A autoridade pode também emitir um parecer técnico adicional para garantir o cumprimento desta Lei.
+
+---
+
+**Art. 30.** A autoridade nacional pode estabelecer normas adicionais para as atividades de comunicação e compartilhamento de dados pessoais.
+
+###### SEÇÃO II - DA RESPONSABILIDADE
+
+**Art. 31.** Quando houver uma infração a esta Lei decorrente do tratamento de dados pessoais por órgãos públicos, a autoridade nacional pode enviar um comunicado com medidas a serem tomadas para cessar a violação.
+
+---
+
+**Art. 32.** A autoridade nacional pode solicitar aos agentes do Poder Público a publicação de relatórios de impacto à proteção de dados pessoais e sugerir a adoção de padrões e boas práticas para o tratamento de dados pessoais pelo Poder Público.
+
+---
+
+#### CAPÍTULO V - DA TRANSFERÊNCIA INTERNACIONAL DE DADOS
 
 
 </div>
