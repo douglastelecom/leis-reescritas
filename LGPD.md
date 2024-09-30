@@ -792,5 +792,67 @@
 
 **Art. 57.** (VETADO).
 
+###### SEÇÃO II - DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE
+
+**Art. 58-A.** O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade é composto por 23 representantes, titulares e suplentes, dos seguintes órgãos:
+
+**I.** 5 do Poder Executivo Federal;
+
+**II.** 1 do Senado Federal;
+
+**III.** 1 da Câmara dos Deputados;
+
+**IV.** 1 do Conselho Nacional de Justiça;
+
+**V.** 1 do Conselho Nacional do Ministério Público;
+
+**VI.** 1 do Comitê Gestor da Internet no Brasil;
+
+**VII.** 3 de entidades da sociedade civil com atuação relacionada à proteção de dados pessoais;
+
+**VIII.** 3 de instituições científicas, tecnológicas e de inovação;
+
+**IX.** 3 de confederações sindicais representativas das categorias econômicas do setor produtivo;
+
+**X.** 2 de entidades representativas do setor empresarial relacionado à área de tratamento de dados pessoais; e
+
+**XI.** 2 de entidades representativas do setor laboral.
+
+---
+
+**§ 1º** Os representantes serão designados por ato do Presidente da República, com possibilidade de delegação.
+
+**§ 2º** Os representantes dos incisos **I** a **VI** e seus suplentes serão indicados pelos titulares dos respectivos órgãos e entidades da administração pública.
+
+**§ 3º** Os representantes dos incisos **VII** a **XI** e seus suplentes:
+
+**I.** Serão indicados conforme regulamento;
+
+**II.** Não podem ser membros do Comitê Gestor da Internet no Brasil;
+
+**III.** Terão mandato de 2 anos, com possibilidade de uma recondução.
+
+---
+
+**§ 4º** A participação no Conselho será considerada prestação de serviço público relevante e não será remunerada.
+
+---
+
+**Art. 58-B.** Compete ao Conselho Nacional de Proteção de Dados Pessoais e da Privacidade:
+
+**I.** Propor diretrizes estratégicas e fornecer subsídios para a elaboração da Política Nacional de Proteção de Dados Pessoais e da Privacidade e para a atuação da ANPD;
+
+**II.** Elaborar relatórios anuais de avaliação da execução das ações da Política Nacional de Proteção de Dados Pessoais e da Privacidade;
+
+**III.** Sugerir ações a serem realizadas pela ANPD;
+
+**IV.** Elaborar estudos e realizar debates e audiências públicas sobre a proteção de dados pessoais e da privacidade;
+
+**V.** Disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade para a população.
+
+---
+
+**Art. 59.** (VETADO).
+
 
 </div>
