@@ -142,7 +142,7 @@
 
 ---
 
-#### DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET
+#### CAPÍTULO III - DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET
 ###### SEÇÃO I - DA NEUTRALIDADE DA REDE
 
 **Art. 9º** Quem é responsável pela transmissão, comutação ou roteamento deve tratar todos os pacotes de dados de forma igual, sem distinção por conteúdo, origem, destino, serviço, dispositivo ou aplicação.  
